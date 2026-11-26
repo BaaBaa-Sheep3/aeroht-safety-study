@@ -3,10 +3,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '356f6f05-0cb3-4fa7-addf-0656b2a44d2f'
-  PropagateID: '356f6f05-0cb3-4fa7-addf-0656b2a44d2f'
-  ReservedCode1: 'ca8dc091-d4ef-4b25-aba3-597132ad2c87'
-  ReservedCode2: 'ca8dc091-d4ef-4b25-aba3-597132ad2c87'
+  ProduceID: '886dbfcc-9adb-42c7-94a9-03e97af0994c'
+  PropagateID: '886dbfcc-9adb-42c7-94a9-03e97af0994c'
+  ReservedCode1: 'aee252c7-7a9e-49ab-a2fa-96aadc7c1e5d'
+  ReservedCode2: 'aee252c7-7a9e-49ab-a2fa-96aadc7c1e5d'
 ---
 
 # 小鹏汇天"陆地航母"系统安全分析
@@ -14,6 +14,9 @@ AIGC:
 《飞行汽车技术基础》课程作业 2 · 对象：小鹏汇天陆地航母（飞行体 X3-F）+ 旅航者 X2（历史证据）。系统安全工程视角的全方位安全分析。
 
 **入口文件：根目录 `index.html`**（GitHub Pages 直接可访问，无需构建）。
+
+- 在线访问：https://baabaa-sheep3.github.io/aeroht-safety-study/
+- 作者：杨立诚（学号 15230219）
 
 ## 内容结构
 
